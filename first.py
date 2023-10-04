@@ -62,4 +62,4 @@ correct = verify(message,sig,public_key)
 if correct:
   print("Successful")
 else:
-  print("Failed to get key")
+  print("Failed to get keys ")
